@@ -79,7 +79,6 @@ Projet_Pipeline-collaborative-d-analyse_de_sentiment/
 │── .gitignore                    # Fichiers à ignorer
 ```
 
----
 
 ## Fonctionnalités implémentées
 
